@@ -1,0 +1,11 @@
+#build urjtag on windows
+
+git clone https://github.com/danselmi/urjtag.git
+cd urjtag/urjtag
+dos2unix configure.ac
+./autogen.sh
+./configure --prefix=/home/urjtag_mgw --enable-relocatable --disable-nls
+make
+make install
+
+
