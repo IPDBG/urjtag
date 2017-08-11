@@ -131,9 +131,9 @@ nobase_dist_pkgdata_DATA = \
 	ibm/ppc440gx/ppc440gx \
 	ibm/ppc405ep/STEPPINGS \
 	ibm/ppc405ep/ppc405ep \
-        ipdbg/PARTS \
-        ipdbg-tap/STEPPINGS \
-        ipdbg-tap/ipdbg-tap \
+    ipdbg/PARTS \
+    ipdbg/ipdbg-tap/STEPPINGS \
+    ipdbg/ipdbg-tap/ipdbg-tap \
 	intel/PARTS \
 	intel/pxa250/STEPPINGS \
 	intel/pxa250/pxa250 \
