@@ -918,7 +918,7 @@ nobase_dist_pkgdata_DATA = \
 	xilinx/xc6slx150t/STEPPINGS \
 	xilinx/xc6slx150t/xc6slx150t \
     xilinx/xc7k325t/STEPPINGS \
-    xilinx/xc7k325t/sc7k325t
+    xilinx/xc7k325t/xc7k325t
 
 all: all-am
 
